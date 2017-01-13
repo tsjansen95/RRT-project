@@ -28,7 +28,7 @@ public class ProjectApp implements GLEventListener {
 	public RRT tree = new RRT();
 	
 	// Put name in the window title
-	private String name = "Comp 417 Project - THOMAS JANSEN";    
+	private String name = "RRT Project - THOMAS JANSEN";    
         
     // Launches the application
     public static void main(String[] args) {
