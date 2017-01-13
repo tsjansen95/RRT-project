@@ -15,4 +15,4 @@ For running the program:
 
 - To run the program, run the ProjectApp class as a Java Application.
 
-- The description of how to use the user interface is included in the paper.
+- The description of how to use the user interface is included in the RRTpaper PDF.
