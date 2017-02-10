@@ -1,6 +1,8 @@
 # RRT-project
 Robot Arm Planning Using Rapidly-Exploring Random Trees
 
+Please read the RRT paper before running the application. The file is titled RRTpaper.pdf
+
 For running the program:
 
 - The src folder contains all necessary classes to run the project. 
